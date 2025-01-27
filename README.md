@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Ali Mahdavifar, and I'm a Master's student in [cosi-master.eu](https://cosi-master.eu), an Erasmus Mundus mobility program on color science. Feel free to write me at [ali.mahdavifar@etu.univ-st-etienne.fr](mailto:ali.mahdavifar@etu.univ-st-etienne.fr) for any enquiries.
 <!--
 **ali-ujm/ali-ujm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
